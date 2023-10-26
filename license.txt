@@ -1,0 +1,49 @@
+ ________  ________  ___  ___  ________           _______      ________     
+|\   ___ \|\   __  \|\  \|\  \|\   ____\         /  ___  \    |\   __  \    
+\ \  \_|\ \ \  \|\  \ \  \\\  \ \  \___|        /__/|_/  /|   \ \  \|\  \   
+ \ \  \ \\ \ \  \\\  \ \  \\\  \ \  \  ___      |__|//  / /    \ \  \\\  \  
+  \ \  \_\\ \ \  \\\  \ \  \\\  \ \  \|\  \         /  /_/__  __\ \  \\\  \ 
+   \ \_______\ \_______\ \_______\ \_______\       |\________\\__\ \_______\
+    \|_______|\|_______|\|_______|\|_______|        \|_______\|__|\|_______|
+----------------------------------------------------------------------------
+
+**Doug2.0 Bootable USB Distribution License Agreement**
+
+*Version 1.0*
+
+**IMPORTANT NOTICE: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THE "Doug2.0 Bootable USB Distribution." BY UTILIZING THIS DISTRIBUTION, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT USE THIS DISTRIBUTION.**
+
+This License Agreement ("Agreement") is a legal agreement between you (the "Licensee") and the distributor ("Distributor") of the "Doug2.0 Bootable USB Distribution" (the "Distribution"). This Agreement governs the use and distribution of the "Doug2.0 Bootable USB Distribution," which includes various third-party software components (the "Software").
+
+**License Grant:**
+
+*Distribution License*: Subject to the terms and conditions of this Agreement, Distributor grants Licensee a non-exclusive, non-transferable, limited license to use and distribute the Distribution solely for Licensee's personal or internal business purposes. This license includes the bundled third-party Software as part of the Distribution.
+
+**Ownership and Intellectual Property:**
+
+*Ownership*: The individual third-party software components included in the Distribution retain their original rights and ownership by their respective creators or rightsholders. Distributor does not claim ownership of these individual software components.
+
+**Responsibility and Legal Compliance:**
+
+*Third-Party Software*: The Licensee acknowledges that the bundled third-party software components are subject to their own separate licenses and terms of use. Licensee is responsible for understanding and complying with these terms. Distributor does not endorse or warrant the individual third-party Software components and is not responsible for any issues, claims, or disputes related to their use.
+
+**Limitation of Liability:**
+
+*Limitation of Liability*: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DISTRIBUTOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, ARISING OUT OF OR RELATED TO THE USE OF THE DISTRIBUTION OR THE INCLUDED THIRD-PARTY SOFTWARE.
+
+**General Provisions:**
+
+*Entire Agreement*: This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof.
+
+*Governing Law*: This Agreement shall be governed by and construed in accordance with the laws of [Specify Jurisdiction].
+
+*Amendments*: This Agreement may only be amended in writing, signed by both parties.
+
+By using the "Doug2.0 Bootable USB Distribution," you agree to be bound by the terms and conditions of this Agreement. If you do not agree to these terms, you shall not have permission to use or distribute the Distribution.
+
+Please print and retain a copy of this Agreement for your records.
+
+**Distributor**
+Contact Email: archotech@mail.com
+
+--------------------------------------------------------------------------------
