@@ -1,14 +1,23 @@
 # Doug-Bootable-USB-Program
-
+# STILL W.I.P
 Dev Links:
 https://poweriso.com/tutorials/add-driver-to-iso-file.htm
 
-# Introduction
+## Introduction
 
-Welcome to The _Illustrious_ "Doug 2.0" Bootable USB program! This device is used to aboloish certain _unwanted_ restrictions on certain laptops by deleting all the garbage put on it, and replacing that with something more usable, coincidentally of the same make and model as the school provided laptops (But of course you shouldn't use the Doug2.0 USB on them, as that would be against the rules, rules that you should NEVER EVER, EVER BREAK! Definitely don't use this on a school laptop...) 
+Welcome to The _Illustrious_ Doug BUSB program! This is a collection of tools, tutorials and other resources all used in *removing* certain *restrictions* from *certain laptops*, AKA. __Deleting and reinstalling Windows__, with full reign to do whatever you really want. The process is pretty easy, and can be boiled down into just "what do _I_ want?" Now there are a few reasons to do this, such as:
 
-***ONLY USE THUS WITH THE EXPRESSED AND FULL INTENTION TO FULLY WIPE THESE LAPTOPS. IF YOU ***
+* Downloading Games
+* Downloading Software (Like paid VPN's) you otherwise couldn't
+* Customizing windows as much as you'd like.
+* Creating art
 
-Provided within The Official "Doug 2.0" Bootable USB Program USB, you'll find the proper resources to DELETE WINDOWS,faithfully provided "Doug LLC". Contact information can be found at the bottom of this page and the licensing agreement. For any references to the license, refer to "license.txt" provided within the USB.
+All while keeping WIFI access!
+Now depending on what _you_ would like to use
+
+## Warning!
+
+***ONLY USE THUS WITH THE EXPRESSED AND FULL INTENTION TO FULLY WIPE THESE LAPTOPS. DAMAGE CAUSED BY FAILURE TO FOLLOW THE INSTRUCTIONS HEREIN IS NOT MY RESPONSIBILITY.***
+
 
 	
