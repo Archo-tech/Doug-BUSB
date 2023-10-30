@@ -9,10 +9,10 @@ Welcome to The _Illustrious_ Doug B-USB program! This is a collection of tools, 
 
 All while keeping WIFI access! Also these laptops are 90% sure to be wiped when you eventually turn them in, so no actual harm will   come of wiping them.
 
-# Wiki
-[Wiki Page]([https://pages.github.com/](https://github.com/Archo-tech/Doug-Bootable-USB/wiki)).
+## [Installation](https://github.com/Archo-tech/Doug-Bootable-USB/wiki/Installation)
+## [Creating A Doug USB](https://github.com/Archo-tech/Doug-Bootable-USB/wiki/Installation)
 
-## Warning!
+# Warning!
 
 ***ONLY USE THUS WITH THE EXPRESSED AND FULL INTENTION TO FULLY WIPE THESE LAPTOPS. DAMAGE CAUSED BY FAILURE TO FOLLOW THE INSTRUCTIONS HEREIN IS NOT MY RESPONSIBILITY.***
 
