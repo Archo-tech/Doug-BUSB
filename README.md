@@ -1,7 +1,4 @@
-# Doug-Bootable-USB-Program
-# STILL W.I.P
-
-## Introduction
+# Introduction
 
 Welcome to The _Illustrious_ Doug B-USB program! This is a collection of tools, tutorials and other resources all used in *removing* certain *restrictions* from *certain laptops*, AKA. __Deleting and reinstalling Windows__, with full reign to do whatever you really want. The process is pretty easy. Now there are a few reasons to do this, such as:
 
@@ -12,7 +9,7 @@ Welcome to The _Illustrious_ Doug B-USB program! This is a collection of tools, 
 
 All while keeping WIFI access! Also these laptops are 90% sure to be wiped when you eventually turn them in, so no actual harm will   come of wiping them.
 
-# Wiki
+# [Wiki Page]([https://pages.github.com/](https://github.com/Archo-tech/Doug-Bootable-USB/wiki).
 
 ## Warning!
 
